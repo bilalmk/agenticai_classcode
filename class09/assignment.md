@@ -10,6 +10,15 @@
 
 ---
 
+### **Please review all the examples below**
+ - Examples [https://openai.github.io/openai-agents-python/examples/](https://openai.github.io/openai-agents-python/examples/)
+ - Agent Patterns [https://github.com/openai/openai-agents-python/tree/main/examples/agent_patterns](https://github.com/openai/openai-agents-python/tree/main/examples/agent_patterns)
+ - Basic Examples [https://github.com/openai/openai-agents-python/tree/main/examples/basic](https://github.com/openai/openai-agents-python/tree/main/examples/basic)
+ - Tools [https://github.com/openai/openai-agents-python/tree/main/examples/tools](https://github.com/openai/openai-agents-python/tree/main/examples/tools)
+ - Handoffs [https://github.com/openai/openai-agents-python/tree/main/examples/handoffs](https://github.com/openai/openai-agents-python/tree/main/examples/handoffs)
+
+---
+
 ### **Watch the following video playlist**
  - OpenAI Agents SDK - Open Source [https://www.youtube.com/watch?v=83l01nAHG6E&list=PL0vKVrkG4hWovpr0FX6Gs-06hfsPDEUe6](https://www.youtube.com/watch?v=83l01nAHG6E&list=PL0vKVrkG4hWovpr0FX6Gs-06hfsPDEUe6)
  - Quiz Preparation - OpenAI Agents SDK [https://www.youtube.com/watch?v=bDPiXVRjqF8&list=PL0vKVrkG4hWr4V2I4P6GaDzMG_LijlGTm](https://www.youtube.com/watch?v=bDPiXVRjqF8&list=PL0vKVrkG4hWr4V2I4P6GaDzMG_LijlGTm)

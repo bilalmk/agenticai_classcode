@@ -5,6 +5,14 @@
 
 ---
 
+### **Please review all the examples below**
+ - Examples [https://openai.github.io/openai-agents-python/examples/](https://openai.github.io/openai-agents-python/examples/)
+ - Agent Patterns [https://github.com/openai/openai-agents-python/tree/main/examples/agent_patterns](https://github.com/openai/openai-agents-python/tree/main/examples/agent_patterns)
+ - Basic Examples [https://github.com/openai/openai-agents-python/tree/main/examples/basic](https://github.com/openai/openai-agents-python/tree/main/examples/basic)
+ - Tools [https://github.com/openai/openai-agents-python/tree/main/examples/tools](https://github.com/openai/openai-agents-python/tree/main/examples/tools)
+ - Handoffs [https://github.com/openai/openai-agents-python/tree/main/examples/handoffs](https://github.com/openai/openai-agents-python/tree/main/examples/handoffs)
+
+---
 ### **Read the following links**
  - Anthropic Design Patterns [https://www.anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)
  - Exceptions [https://openai.github.io/openai-agents-python/running_agents/](https://openai.github.io/openai-agents-python/running_agents/)
