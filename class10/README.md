@@ -22,13 +22,12 @@ Difficulty Level: Beginner-level
 
  ---
 
- ## **Demo Quiz**
+ <!-- ## **Demo Quiz**
 
   - **OpenAI Agents SDK Demo Quiz** [https://docs.google.com/document/d/1ScLDIqXRdlqfP10tRpGdbZvvUGJoPglc2Sd-0MgJY24/edit?tab=t.0](https://docs.google.com/document/d/1ScLDIqXRdlqfP10tRpGdbZvvUGJoPglc2Sd-0MgJY24/edit?tab=t.0)
 
-  - **Agents SDK Quiz Preparation - Questions** [https://docs.google.com/document/d/1I7HsB1_pojNkcS6uTJYEA_QzVBVBa4YHc3SC5iXtcR0/edit?tab=t.0](https://docs.google.com/document/d/1I7HsB1_pojNkcS6uTJYEA_QzVBVBa4YHc3SC5iXtcR0/edit?tab=t.0)
+  - **Agents SDK Quiz Preparation - Questions** [https://docs.google.com/document/d/1I7HsB1_pojNkcS6uTJYEA_QzVBVBa4YHc3SC5iXtcR0/edit?tab=t.0](https://docs.google.com/document/d/1I7HsB1_pojNkcS6uTJYEA_QzVBVBa4YHc3SC5iXtcR0/edit?tab=t.0) -->
 
----
 
 ## **Watch the following video playlist**
  - **OpenAI Agents SDK - Open Source** [https://www.youtube.com/watch?v=83l01nAHG6E&list=PL0vKVrkG4hWovpr0FX6Gs-06hfsPDEUe6](https://www.youtube.com/watch?v=83l01nAHG6E&list=PL0vKVrkG4hWovpr0FX6Gs-06hfsPDEUe6)
